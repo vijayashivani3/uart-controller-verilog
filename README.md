@@ -36,14 +36,18 @@ simulated and synthesised in Xilinx Vivado 2017.4.
 
 ## Simulation Results
 Self-checking testbench output — all 4 integration tests passing:
+
 ===== UART TOP INTEGRATION TEST =====
+
 Writing 3 bytes to TX FIFO: 0x11, 0x22, 0x33
 Reading back from RX FIFO...
     Byte 0: PASS | received=0x11  expected=0x11
     Byte 1: PASS | received=0x22  expected=0x22
     Byte 2: PASS | received=0x33  expected=0x33
 Error Flags Test: PASS | no parity or frame errors
-==========================================
+
+======================================
+
 ALL 4 TESTS PASSED
 
 ## Waveform
