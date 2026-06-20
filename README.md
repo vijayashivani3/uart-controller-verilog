@@ -50,6 +50,7 @@ Reading back from RX FIFO...
 Error Flags Test: PASS | no parity or frame errors
 
 ======================================
+
 ALL 4 TESTS PASSED
 
 ## Waveform
